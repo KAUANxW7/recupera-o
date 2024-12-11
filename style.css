@@ -5,6 +5,8 @@ body {
   }
   
   #header {
+    width: 100vw;
+    height: 50px;
     background-color: #000000;
     color: #f7a800;
     padding: 20px;
