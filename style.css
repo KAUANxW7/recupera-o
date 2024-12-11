@@ -50,13 +50,16 @@ body {
   }
   
   #sobre {
+    width: 70% ;
     background-color: #f7a800;
   }
   
   #interesses {
+    width: 70%;
     background-color: #f7a800;
   }
   
   #sobre-mais {
+    width: 70%;
     background-color: #f7a800;
   }
